@@ -114738,7 +114738,7 @@ return A.q(null,r)}})
 return A.r($async$$0,r)},
 $S:3}
 A.b4S.prototype={
-$0(){A.AA(A.ef("medmaven.github.io",0,null),B.jQ)},
+$0(){A.AA(A.ef("https://medmaven.github.io/",0,null),B.jQ)},
 $S:2}
 A.b4V.prototype={
 $0(){A.bk(this.a,!1).cm(null)},
